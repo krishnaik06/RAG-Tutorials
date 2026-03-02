@@ -11,3 +11,4 @@ python-dotenv
 typesense
 langchain_openai
 langgraph
+rag
